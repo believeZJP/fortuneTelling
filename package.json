@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/react": "^16.4.6",
     "@types/webpack-env": "^1.13.6",
-    "@tarojs/mini-runner": "2.2.8",
+    "@tarojs/mini-runner": "3.5.11",
     "@tarojs/plugin-sass": "2.2.8",
     "@tarojs/plugin-terser": "2.2.8",
     "babel-plugin-transform-class-properties": "^6.24.1",
